@@ -1,0 +1,21 @@
+body{
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url("../../resources/image.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+.login-box{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-left{
+    background-color: #c2c2c2;
+    padding: 30px;
+}
+.login-right{
+    background-color: #ffffff;
+    padding: 30px;
+}
+
